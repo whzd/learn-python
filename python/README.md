@@ -34,4 +34,5 @@ Udemy course: [100 Days of Pyhton](https://farfetch.udemy.com/course/100-days-of
 * **Day26**  - NATO Alphabet (List Comprehension and Dictionary Comprehension)
 * **Day27**  - Miles to Kilometers (Tkinter, *args and **kwargs)
 * **Day28**  - Pomodoro App (TKinter and Dynamic Typing)
-* **Day29**  - Password Manager (TKinter)
+* **Day29**  - Password Manager Part1(TKinter)
+* **Day30**  - Password Manager Part2 (Errors, Exceptions and JSON Data)
