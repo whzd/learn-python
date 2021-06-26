@@ -4,7 +4,7 @@ import smtplib
 import datetime as dt
 
 SOURCE_EMAIL = "monkeytypemaster@gmail.com"
-SOURCE_EMAIL_PASSWORD = "3G70@Pa*V&@dXRzx6IWE"
+SOURCE_EMAIL_PASSWORD = ""
 
 
 # Check if today matches a birthday in the birthdays.csv
