@@ -37,3 +37,4 @@ Udemy course: [100 Days of Pyhton](https://farfetch.udemy.com/course/100-days-of
 * **Day29**  - Password Manager Part1(TKinter)
 * **Day30**  - Password Manager Part2 (Errors, Exceptions and JSON Data)
 * **Day31**  - Flash Card App (Capstone Project)
+* **Day32**  - Automated Birthday Wisher (Send Emails(smtplib) and Manage Dates(datetime))
