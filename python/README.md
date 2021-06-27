@@ -39,3 +39,4 @@ Udemy course: [100 Days of Pyhton](https://farfetch.udemy.com/course/100-days-of
 * **Day31**  - Flash Card App (Capstone Project)
 * **Day32**  - Automated Birthday Wisher (Send Emails(smtplib) and Manage Dates(datetime))
 * **Day33**  - ISS Overhead Notifier (API Endpoints and API Parameters)
+* **Day34**  - Quizzler (API Practice and GUI App)
