@@ -29,7 +29,7 @@ for weather in ofh_weather_data:
 if will_rain:
     message = client.messages.create(
         body="It's going to rain today.\nDon't forget the umbrella.",
-        from_="+17175379972", # Twilio free trial phone number
+        from_="", # Twilio free trial phone number
         to="",   # Your phone number, that was used in twilio
     )
     print(message.status)
