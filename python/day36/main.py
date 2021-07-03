@@ -31,9 +31,10 @@ def get_stock_price_change():
     response = requests.get(url="https://www.alphavantage.co/query", params=parameters)
     response.raise_for_status()
     content = response.json()["Time Series (Daily)"]
-    variation = float(content[str(DATE_YESTERDAY)]["4. close"]) - float(
+    diference = float(content[str(DATE_YESTERDAY)]["4. close"]) - float(
         content[str(DATE_DAY_BEFORE_YESTERDAY)]["4. close"]
     )
+    variation = (diference / float(content[str(DATE_YESTERDAY)]["4. close"])) * 100
     return round(variation, 2)
 
 
@@ -59,9 +60,9 @@ def get_company_news():
 def send_sms(stock_fluctuation, news):
 
     if stock_fluctuation > 0:
-        content = f"{STOCK}: ⬆️{stock_fluctuation}%\n{news}"
+        content = f"{STOCK}: ⬆️{abs(stock_fluctuation)}%\n{news}"
     else:
-        content = f"{STOCK}: ⬇️{stock_fluctuation}%\n{news}"
+        content = f"{STOCK}: ⬇️{abs(stock_fluctuation)}%\n{news}"
 
     client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
     message = client.messages.create(
