@@ -42,4 +42,4 @@ Udemy course: [100 Days of Pyhton](https://farfetch.udemy.com/course/100-days-of
 * **Day34**  - Quizzler (API Practice and GUI App)
 * **Day35**  - Rain Alert SMS (API Keys, Authentication and Environment Variables)
 * **Day36**  - Stock Trading Alert (APIs)
-
+* **Day37**  - Habit Tracker (API Post and Headers)
