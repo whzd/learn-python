@@ -2,7 +2,7 @@
 
 **100 Days, 100 Projects:**
 
-* **Beginner:**
+* **[Beginner](https://github.com/whzd/ff-learn/tree/main/python/100%20Days%20of%20Code/Beginner):**
     * **Day1**   - Band Name Generator (Working with variables)
     * **Day2**   - Tip Calculator (Understanding Data Types)
     * **Day3**   - Treasure Island (Control Flow and Logical Operators)
@@ -18,7 +18,7 @@
     * **Day13**  - Debugging (Learning how to debug)
     * **Day14**  - Higher or Lower (Capstone Project)
 
-* **Intermediate:**
+* **[Intermediate](https://github.com/whzd/ff-learn/tree/main/python/100%20Days%20of%20Code/Intermediate):**
     * **Day15**  - Coffee Machine (Capstone Project)
     * **Day16**  - Coffee Machine with OOP (Object Oriented Programming)
     * **Day17**  - Quiz (Benefits of OOP)
@@ -37,7 +37,7 @@
     * **Day30**  - Password Manager Part2 (Errors, Exceptions and JSON Data)
     * **Day31**  - Flash Card App (Capstone Project)
 
-* **Intermediate +:**
+* **[Intermediate +](https://github.com/whzd/ff-learn/tree/main/python/100%20Days%20of%20Code/Intermediate%20%2B):**
     * **Day32**  - Automated Birthday Wisher (Send Emails(smtplib) and Manage Dates(datetime))
     * **Day33**  - ISS Overhead Notifier (API Endpoints and API Parameters)
     * **Day34**  - Quizzler (API Practice and GUI App)
