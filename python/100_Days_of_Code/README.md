@@ -45,3 +45,4 @@
     * **Day36**  - Stock Trading Alert (APIs)
     * **Day37**  - Habit Tracker (API Post and Headers)
     * **Day38**  - Workout Tracking (APIs and Google Sheets)
+    * **Day39**  - Flight Deal Finder (Capstone Project)
