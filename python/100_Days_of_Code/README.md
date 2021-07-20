@@ -47,3 +47,6 @@
     * **Day38**  - Workout Tracking (APIs and Google Sheets)
     * **Day39**  - Flight Deal Finder (Capstone Project Part1)
     * **Day40**  - Flight Club (Capstone Project Part2)
+
+* **[Web_Foundation]():**
+    * **Day41**  - CV Website (Introduction to HTML)
