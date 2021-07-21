@@ -50,3 +50,4 @@
 
 * **[Web_Foundation]():**
     * **Day41**  - CV Website (Introduction to HTML)
+    * **Day42**  - CV Website Part2 (Intermediate HTML)
